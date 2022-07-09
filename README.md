@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu9701&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu9701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu9701" alt="vishnu9701" /></a> </p>
+
 
 - 📫 How to reach me **Vishnupandey9426@gmail.com**
 
